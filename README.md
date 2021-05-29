@@ -3,4 +3,6 @@ Ecommerce company based in New York City that sells clothing online but they als
 
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website.
 Hence, Predicting for an e-commerce company that whether they should focus their efforts on their mobile app experience or their website using #Linear regression
- # Machine Learning Project
+Machine Learning Project .
+
+Link for the dataset used : https://drive.google.com/file/d/1pU3TDJ-6j8zYyNiQ_DDoPpOtB11ESuvb/view?usp=sharing
